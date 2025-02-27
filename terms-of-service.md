@@ -1,4 +1,4 @@
-Terms of Service
+|--- Terms of Service ---|
 
 Last Update : [Thursday, 27th February 2025]
 
