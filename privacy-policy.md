@@ -1,8 +1,8 @@
 Privacy Policy
 
-Last Update : [Monday, 7th October 2024]
+Last Update : [Thursday, 27th February 2025]
 
-The Robot values your privacy. We want to assure you that we do not store any personal data, including your username, avatar, messages, or token. 
+The Bot values your privacy. We want to assure you that we do not store any personal data, including your username, avatar, messages, or token. 
 
 The only information we retain is your user ID, which is necessary for associating your account with moderation actions such as reports and bans.
 
