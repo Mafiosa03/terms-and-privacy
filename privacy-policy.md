@@ -1,6 +1,6 @@
 |--- Privacy Policy ---|
 
-Last Update : [Thursday, 27th February 2025]
+- Last Update : [Thursday, 27th February 2025]
 
 The Bot values your privacy. We want to assure you that we do not store any personal data, including your username, avatar, messages, or token. 
 
