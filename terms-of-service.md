@@ -1,6 +1,6 @@
 |--- Terms of Service ---|
 
-Last Update : [Thursday, 27th February 2025]
+- Last Update : [Thursday, 27th February 2025]
 
 By using the Bot, you agree to the following terms: Any attempts to crash the bot or create disruption will result in sanctions. Making false bug reports or false reports is also prohibited and may lead to action.
 
