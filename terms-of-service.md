@@ -2,7 +2,7 @@
 
 - Last Update: [Wednesday, 8th July 2026]
 
-By adding or using the Bot, you agree to the following terms, as well as Discord's Terms of Service, Discord's Developer Terms, and Top.gg's Guidelines.
+By adding or using the Bot, you agree to the following terms, as well as Discord's Terms of Service, Discord's Developer Terms.
 
 ### 1. User Conduct & Restrictions
 * Any attempts to crash the bot, exploit vulnerabilities, spam commands, or create general disruption will result in a permanent ban from using our services.
