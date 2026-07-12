@@ -8,7 +8,7 @@ By adding the Bot to your server or interacting with it, you explicitly agree to
 
 ---
 
-## 🔍 1. Data Collection & Core Usage
+## 1. Data Collection & Core Usage
 
 To function correctly, provide automation features, and ensure infrastructure security, ZenithiumX processes and stores specific data. We only collect the bare minimum required for operation.
 
@@ -24,14 +24,14 @@ To function correctly, provide automation features, and ensure infrastructure se
 
 ---
 
-## 🔒 2. Data Security & Protection
+## 2. Data Security & Protection
 
 * **Storage & Access:** All stored data is hosted on secured databases with strictly restricted access. Only authorized core developers of the ZenithiumX Team have access to the database layer.
 * **Third-Party Sharing:** We **never** sell, rent, or trade your server or user data to third parties. Data is never shared externally, except if explicitly required by law enforcement or to comply with Discord's official Trust & Safety investigations.
 
 ---
 
-## 🚫 3. Data Retention & Opt-Out Rights
+## 3. Data Retention & Opt-Out Rights
 
 We believe you should have full control over your data. You have the right to access, modify, or delete your information at any time.
 
@@ -41,13 +41,13 @@ We believe you should have full control over your data. You have the right to ac
 
 ---
 
-## 🔄 4. Changes to This Policy
+## 4. Changes to This Policy
 
 We reserve the right to update this Privacy Policy to reflect changes in our features, Discord's developer policy, or applicable laws. Any modifications will update the "Last Updated" date at the top of this document. Continued interaction with the Bot after these changes implies acceptance of the updated policy.
 
 ---
 
-## 💬 5. Contact & Support
+## 5. Contact & Support
 
 For any questions regarding your data, privacy concerns, or to execute a data deletion request, please contact our team directly:
 
